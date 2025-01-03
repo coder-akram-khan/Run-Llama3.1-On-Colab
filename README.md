@@ -85,8 +85,10 @@ This repository provides step-by-step instructions to run the Llama 3.1 8B model
     Answer: A key concept in statistics!
     Standard Deviation (SD) is a measure of the amount of variation or dispersion from the average value in a set of data...
     ```
-
-
+5. **Setup File**
+   
+    For convenience, a ready-to-use Colab setup file has been added: Llama3_1.ipynb. Simply open the notebook and run the cells to get started!
+    
 ---
 
 ## Contributions
